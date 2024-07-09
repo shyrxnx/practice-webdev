@@ -1,0 +1,15 @@
+.navigation {
+    margin: 0;
+    background: aliceblue;
+    padding: 5px;
+    font-size: large;
+    font-weight: bold;
+    font-family: Segoe UI, serif;
+}
+
+.navigation ul {
+    gap: 20px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
